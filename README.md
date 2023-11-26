@@ -18,26 +18,12 @@ Here is kind of deeper copy containing 3k+ lines of markup:
     <!-- upstate-laundromat -->
     <base href="" />
     <meta charset="utf-8" />
+    <link href="https://db.onlinewebfonts.com/c/bab15956435794e3d48309ddf0700b4c?family=Filson+Soft" rel="stylesheet">
     <title>Upstate Laundromat</title>
-    <meta
-      http-equiv="Accept-CH"
-      content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"
-    />
-    <link
-      rel="icon"
-      type="image/x-icon"
-      href="https://images.squarespace-cdn.com/content/v1/5acd6b71da02bcf0fc160fce/1530034622331-9ANEHL5XZC4QAQWDXPLM/favicon.ico?format=100w"
-    />
-    <link rel="canonical" href="https://www.upstatelaundromat.com" />
-
     ...
-
-    <script data-sqs-type="imageloader-bootstrapper">
-      if (window.ImageLoader) window.ImageLoader.bootstrap({}, document);
-    </script>
-    <script>
-      Squarespace.afterBodyLoad(Y);
-    </script>
+  </head>
+  <body>
+    ...
     <svg
       xmlns="http://www.w3.org/2000/svg"
       version="1.1"
