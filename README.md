@@ -59,7 +59,7 @@ Here is kind of deeper copy containing 3k+ lines of markup:
 </html>
 ```
 
-Actually 3305, being previously prittified.  
+Actually, 3305, being previously prettified.  
 
 I'm not lazy to implement responsive and adaptive landing pages,
 but I just value my time. To see my ability working with layouts you can visit this pages:
@@ -69,6 +69,6 @@ but I just value my time. To see my ability working with layouts you can visit t
   + [GERICHT - the Restaurant](https://vadym4che.github.io/restaurant-react/)
   + [vue-firebase | feedback-widget](https://vadym4che.github.io/vue3-feedback-widget/)
 
-And my other demos: [Vue3 CV](https://vadym4che.github.io/cv/), [Tilda CV](https://vadym4che.tilda.ws/), [GitHub](https://github.com/vadym4che).  
+My other demos: [Vue3 CV](https://vadym4che.github.io/cv/), [Tilda CV](https://vadym4che.tilda.ws/), [GitHub](https://github.com/vadym4che).  
 
 BEST REGARDS!!! 🙏
